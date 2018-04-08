@@ -8,7 +8,7 @@ The board is an [IoT Octopus](http://fab-lab.eu/octopus/).
 
 ## Demo
 
-![Demo Video](https://youtu.be/6cVYy-x6IMI)
+[![Demo video](https://img.youtube.com/vi/6cVYy-x6IMI/0.jpg)](https://www.youtube.com/embed/6cVYy-x6IMI)
 
 ## How it works
 
